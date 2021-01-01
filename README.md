@@ -1,0 +1,2 @@
+# tsp-algorithms-research-paper
+In this paper, we will be conducting a comparative study to test and evaluate the performance of three algorithms that attempt to solve the traveling salesman problem: Simulated Annealing, Ant Colony Optimization, and Genetic Algorithm. With the TSP classifying under NP-hard computational complexity, we will be examining the runtime as well as the shortest distance computed by each of these algorithms by setting up analogous environments of n cities.
